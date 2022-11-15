@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Batch-217\BasicCoreProblem\BasicCoreProblem\obj\Debug\net6.0\BasicCoreProblem.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Batch-217\BasicCoreProblem\BasicCoreProblem\obj\Debug\net6.0\BasicCoreProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Batch-217\BasicCoreProblem\BasicCoreProblem\obj\Debug\net6.0\BasicCoreProblem.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Batch-217\BasicCoreProblem\BasicCoreProblem\obj\Debug\net6.0\BasicCoreProblem.AssemblyInfo.cs
+C:\Users\hp\Desktop\Batch-217\BasicCoreProblem\BasicCoreProblem\obj\Debug\net6.0\BasicCoreProblem.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Batch-217\BasicCoreProblem\BasicCoreProblem\bin\Debug\net6.0\BasicCoreProblem.exe
+C:\Users\hp\Desktop\Batch-217\BasicCoreProblem\BasicCoreProblem\bin\Debug\net6.0\BasicCoreProblem.deps.json
+C:\Users\hp\Desktop\Batch-217\BasicCoreProblem\BasicCoreProblem\bin\Debug\net6.0\BasicCoreProblem.runtimeconfig.json
+C:\Users\hp\Desktop\Batch-217\BasicCoreProblem\BasicCoreProblem\bin\Debug\net6.0\BasicCoreProblem.dll
+C:\Users\hp\Desktop\Batch-217\BasicCoreProblem\BasicCoreProblem\bin\Debug\net6.0\BasicCoreProblem.pdb
+C:\Users\hp\Desktop\Batch-217\BasicCoreProblem\BasicCoreProblem\obj\Debug\net6.0\BasicCoreProblem.dll
+C:\Users\hp\Desktop\Batch-217\BasicCoreProblem\BasicCoreProblem\obj\Debug\net6.0\refint\BasicCoreProblem.dll
+C:\Users\hp\Desktop\Batch-217\BasicCoreProblem\BasicCoreProblem\obj\Debug\net6.0\BasicCoreProblem.pdb
+C:\Users\hp\Desktop\Batch-217\BasicCoreProblem\BasicCoreProblem\obj\Debug\net6.0\BasicCoreProblem.genruntimeconfig.cache
+C:\Users\hp\Desktop\Batch-217\BasicCoreProblem\BasicCoreProblem\obj\Debug\net6.0\ref\BasicCoreProblem.dll
